@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<proyectos>
+    <proyectos titulo="1">
+        <participantes>
+            <participante>Alvaro</participante>
+        </participantes>
+        <tags>
+            <tag>Informatica</tag>
+        </tags>
+        <familias>
+            <familia>Informatica</familia>
+        </familias>
+        <descripcion>Prueba del proyecto</descripcion>
+        <coordinador>Jorge</coordinador>
+        <valoracion>
+            <comentario>hola</comentario>
+            <puntuacion>4.21</puntuacion>
+        </valoracion>
+        <estado>true</estado>
+        <visibilidad>true</visibilidad>
+    </proyectos>
+</proyectos>

@@ -1,0 +1,20 @@
+{
+  "proyectos": [
+    {
+      "participantes": [
+        "Alvaro"
+      ],
+      "tags": [
+        "Informatica"
+      ],
+      "familias": [
+        "Informatica"
+      ],
+      "descripcion": "Prueba del proyecto",
+      "coordinador": "Jorge",
+      "valoracion": {},
+      "estado": true,
+      "visibilidad": true
+    }
+  ]
+}
