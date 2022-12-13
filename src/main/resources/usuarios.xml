@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usuarios>
+
+	//datos usuario externo a un centro
+	<rol>USER-ROL</rol>
+	<nombre>USER1</nombre>
+	<contrasenia>CONTRA-1234</contrasenia>
+	<puntuacion>1.0</puntuacion>
+	<familiaProfesional>
+		<familia></familia>
+	</familiaProfesional>
+	<contacto>CONTACTO@GMAIL.COM</contacto>
+	<proyectos>
+		<proyecto></proyecto>
+	</proyectos>
+
+	//datos alumnos
+	<alumnos>
+		<alumno>
+			<centro>CENTRO1</centro>
+			<rol>ROL-ALUMNO</rol>
+			<nombre>NOMBREALUMNO</nombre>
+			<contrasenia>CONTRA-5710</contrasenia>
+			<puntuacion>1.0</puntuacion>
+			<familiaProfesional>
+				<familia></familia>
+			</familiaProfesional>
+			<contacto>CONTACTOALUMNO@GMAIL.COM</contacto>
+			<proyectos>
+				<proyecto></proyecto>
+			</proyectos>
+		</alumno>
+	</alumnos>
+	
+	//datos profesores
+	<profesores>
+		<profesor>
+			<centro>CENTRO1</centro>
+			<rol>ROL-PROFESOR</rol>
+			<nombre>NOMBREPROFESOR</nombre>
+			<contrasenia>CONTRA-4170</contrasenia>
+			<puntuacion>1.0</puntuacion>
+			<familiaProfesional>
+				<familia></familia>
+			</familiaProfesional>
+			<contacto>CONTACTOPROFESOR@GMAIL.COM</contacto>
+			<proyectos>
+				<proyecto></proyecto>
+			</proyectos>
+		</profesor>
+	</profesores>
+</usuarios>
